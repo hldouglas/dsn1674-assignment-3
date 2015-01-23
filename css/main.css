@@ -14,3 +14,16 @@ ol, p, ul, dl, figcaption {
 blockquote, footer {
   font-family: Times, serif;
 }
+
+ol {
+  list-style-type: none;
+  padding: 0;
+}
+
+a {
+  color: maroon;
+}
+
+a:hover {
+  color: red;
+}
