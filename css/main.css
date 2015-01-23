@@ -1,3 +1,16 @@
 html {
   background-color: linen;
 }
+
+h1, h2, h3 {
+  color: darkgray;
+  font-family: 'Bevan', cursive;
+}
+
+ol, p, ul, dl, figcaption {
+  font-family: Trebuchet, sans-serif;
+}
+
+blockquote, footer {
+  font-family: Times, serif;
+}
