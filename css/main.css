@@ -13,6 +13,7 @@ ol, p, ul, dl, figcaption {
 
 blockquote, footer {
   font-family: Times, serif;
+  font-style: italic;
 }
 
 ol {
@@ -26,4 +27,8 @@ a {
 
 a:hover {
   color: red;
+}
+
+b {
+  color: darkgray;
 }
