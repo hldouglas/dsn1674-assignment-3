@@ -32,3 +32,20 @@ a:hover {
 b {
   color: darkgray;
 }
+
+ul {
+  list-style-type: disc;
+}
+
+figcaption {
+  font-style: italic;
+  font-size: 0.75rem;
+}
+
+dt {
+  font-style: bold;
+}
+
+blockquote {
+  font-size: 2rem;
+}
