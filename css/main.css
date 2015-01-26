@@ -11,12 +11,12 @@ ol, p, ul, dl, figcaption {
   font-family: Trebuchet, sans-serif;
 }
 
-blockquote, footer {
+span, footer, .quote {
   font-family: Times, serif;
   font-style: italic;
 }
 
-ol {
+.link {
   list-style-type: none;
   padding: 0;
 }
@@ -47,14 +47,10 @@ dl {
   font-style: bold;
 }
 
-blockquote {
-  font-size: 1.5rem;
-}
-
 footer {
   font-size: 0.75rem;
   text-align: right;
-  line-height: 5;
+  line-height: 3;
   color: darkgray;
 }
 
@@ -62,6 +58,19 @@ img {
   text-align: center;
 }
 
-.data {
+span {
+  color: darkgray;
+}
+
+.quote {
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+dt {
   font-style: bold;
+}
+
+.wiki {
+  list-style-type: circle;
 }
