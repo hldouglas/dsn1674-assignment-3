@@ -65,13 +65,9 @@ span {
 }
 
 dt {
-  font-style: bold;
+  font-weight: bold;
 }
 
 .wiki {
   list-style-type: circle;
-}
-
-.data {
-  font-style: bold;
 }
